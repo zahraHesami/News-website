@@ -18,8 +18,8 @@ define('DB_PASSWORd','');
 //mail
 define('MAIL_HOST','smtp.gmail.com');
 define('SMTP_AUTH',true);
-define('MAIL_USERNAME','nargesba2024@gmail.com');
-define('MAIL_PASSWORD','lbmk yqri nltc ojei');
+define('MAIL_USERNAME','');
+define('MAIL_PASSWORD','');
 define('MAIL_PORT',587);
 define('SENDER_MAIL','nargesba2024@gmail.com');
 define('SENDER_NAME','narges');
